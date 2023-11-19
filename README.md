@@ -36,7 +36,7 @@ My main programming language is Python. Recently, I am learning C# and Rust for 
 
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MotacillaAlba&theme=transparent&layout=compact&PAT_1)](https://github.com/MotacillaAlba/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-main-motacillaalbas-projects.vercel.app/api/top-langs/?username=MotacillaAlba&theme=transparent&layout=compact&PAT_1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ## Publications
