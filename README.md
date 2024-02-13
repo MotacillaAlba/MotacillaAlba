@@ -1,6 +1,6 @@
 <!--
 
-# Hello! Welcome to my personal profile! I'm Yueyuan Li.
+# Hello! Welcome to my profile! I'm Yueyuan Li.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white
 )](mailto:rowena.academic@gmail.com)
@@ -36,7 +36,7 @@ My main programming language is Python. Recently, I am learning C# and Rust for 
 
 -->
 
-[![Top Langs](https://github-readme-stats-git-main-motacillaalbas-projects.vercel.app/api/top-langs/?username=MotacillaAlba&theme=transparent&layout=compact&PAT_1&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MotacillaAlba&hide=contribs&theme=transparent&layout=compact&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ## Publications
